@@ -609,6 +609,15 @@ section {
   bottom: 0;
 }
 
+#portfolio-flters {
+  list-style: none;
+  padding-left: 0; 
+}
+
+#portfolio-flters li {
+  list-style: none;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
